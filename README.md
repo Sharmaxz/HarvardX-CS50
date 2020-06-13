@@ -8,7 +8,10 @@ An entry-level course taught by David J. Malan, CS50x teaches students how to th
 | Problem set | Description | Language | Score |
 | --- | --- | --- | --- |
 | [Problem Set 0](https://cs50.harvard.edu/x/2020/weeks/0/) | Scratch 😺 | Scratch | - |
-| [Problem Set 1](https://cs50.harvard.edu/x/2020/weeks1/) | C | C | 100% |
+| [Problem Set 1](https://cs50.harvard.edu/x/2020/weeks/1/) | C | C | 100% |
+| [Problem Set 2](https://cs50.harvard.edu/x/2020/weeks/2/) | C | C | 100% |
+| [Problem Set 3](https://cs50.harvard.edu/x/2020/weeks/3/) | C | C | 100% |
+| [Problem Set 4](https://cs50.harvard.edu/x/2020/weeks/4/) | C | C | 100% |
 
 ## Final project
 
