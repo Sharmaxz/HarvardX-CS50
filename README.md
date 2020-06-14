@@ -12,6 +12,7 @@ An entry-level course taught by David J. Malan, CS50x teaches students how to th
 | [Problem Set 2](https://cs50.harvard.edu/x/2020/weeks/2/) | C | C | 100% |
 | [Problem Set 3](https://cs50.harvard.edu/x/2020/weeks/3/) | C | C | 100% |
 | [Problem Set 4](https://cs50.harvard.edu/x/2020/weeks/4/) | C | C | 100% |
+| [Problem Set 5](https://cs50.harvard.edu/x/2020/weeks/5/) | C | C | 100% |
 
 ## Final project
 
