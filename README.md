@@ -15,6 +15,7 @@ An entry-level course taught by David J. Malan, CS50x teaches students how to th
 | [Problem Set 5](https://cs50.harvard.edu/x/2020/weeks/5/) | Data Structures | C | 100% |
 | [Problem Set 6](https://cs50.harvard.edu/x/2020/weeks/6/) | Python | Python | 100% |
 | [Problem Set 7](https://cs50.harvard.edu/x/2020/weeks/7/) | SQL | SQL and Python | 100% |
+| [Problem Set 8](https://cs50.harvard.edu/x/2020/tracks/games/) | TRACK - Games | Lua | 100% |
 
 ## Final project
 
