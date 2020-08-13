@@ -17,13 +17,9 @@ An entry-level course taught by David J. Malan, CS50x teaches students how to th
 | [Problem Set 7](https://cs50.harvard.edu/x/2020/weeks/7/) | SQL | SQL and Python | 100% |
  | [Problem Set 8](https://cs50.harvard.edu/x/2020/tracks/games/) | Track - Games | Lua | 100% |
 
-## Final project
-
--
-
 ## Certificate
 
--
+![alt text](https://certificates.cs50.io/0b4067e0-8bb1-4086-801b-37732caca8ce.png?size=letter)
 
 ### DISCLAIMER:
 Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally pointless if you actually wanna learn how to write software and a blatant violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
